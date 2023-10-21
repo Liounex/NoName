@@ -7,7 +7,7 @@ function Mensaje() {
         <div>
             <h1>{mensaje}</h1>
             <button onClick={() => setMensaje("Adiós, mundo!")}>Cambiar mensaje</button>
-            <button onClick={() => window.location.href = './index.html'}>AFTER</button>
+            <button onClick={() => window.location.href = '/index.html'}>AFTER</button>
         </div>
     )
 }
