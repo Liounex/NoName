@@ -12,7 +12,7 @@ function Mensaje() {
     )
 }
 
-function App2() {
+function About() {
     return (
         <>
             <div>
@@ -24,4 +24,4 @@ function App2() {
     )
 }
 
-export default App2
+export default About
